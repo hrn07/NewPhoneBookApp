@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("webten eklendi 28.01.2019 - 11:42 de");
             Console.WriteLine("masaüstünden eklendi 28.01.2019 11:44 te");
             Console.WriteLine("masaüstünden eklendi 28.01.2019 11:46 da");
+            Console.WriteLine("masaüstünden eklendi 28.01.2019 11:50 de");
         }
     }
 }
