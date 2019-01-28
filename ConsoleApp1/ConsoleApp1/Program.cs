@@ -15,6 +15,10 @@ namespace ConsoleApp1
             Console.WriteLine("masaüstünden eklendi 28.01.2019 11:44 te");
             Console.WriteLine("masaüstünden eklendi 28.01.2019 11:46 da");
             Console.WriteLine("masaüstünden eklendi 28.01.2019 11:50 de");
+
+
+            Console.WriteLine("masaüstünden ve dev1 branchinden eklendi 28.01.2019 11:53 te");
+
         }
     }
 }
