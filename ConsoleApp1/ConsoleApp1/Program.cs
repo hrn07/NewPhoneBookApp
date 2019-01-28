@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("package nerede");
             Console.WriteLine("webten eklendi 28.01.2019 - 11:42 de");
+            Console.WriteLine("masaüstünden eklendi 28.01.2019 11:44 te");
         }
     }
 }
