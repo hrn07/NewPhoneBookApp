@@ -18,7 +18,8 @@ namespace ConsoleApp1
 
 
             Console.WriteLine("masaüstünden ve dev1 branchinden eklendi 28.01.2019 11:53 te");
-
+            
+            Console.WriteLine("webden ve fork eden ekledi 28.01.2019 13:15 te");
         }
     }
 }
